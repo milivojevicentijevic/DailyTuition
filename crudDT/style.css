@@ -1,0 +1,11 @@
+.d-flex button {
+    margin: .25rem .75rem;
+    padding: .375rem 1.25rem;
+}
+.d-flex table {
+    margin: 1rem 10rem;
+}
+table .btnedit {
+    color: lightsalmon;
+    cursor: pointer;
+}
